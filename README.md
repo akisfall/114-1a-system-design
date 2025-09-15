@@ -55,4 +55,4 @@ raw Markdown line up prettily. You can also use inline Markdown
  *Still* | `renders` | **nicely** 
  1 | 2 | 3 
 
-![NKUST](./778447277.jpg "NKUST)
+![NKUST](./778447277.jpg "NKUST")
