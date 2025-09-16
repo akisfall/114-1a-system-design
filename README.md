@@ -5,56 +5,39 @@
 ##### 114-1a-system-design
 ###### 114-1a-system-design
 
-**戴暐翔 C111161107**
+**戴暐翔 C111161107** *戴暐翔 C111161107* ~~戴暐翔 C111161107~~
 
 個人網頁
 
-Emphasis, aka *italics*, with *asterisks* or _underscores_.
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-Combined emphasis, with **asterisks** or **_underscores_**.
-Strikingthrough uses two tildes. ~~Scratch this~~:
+`lorem ipsum`
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet condimentum sem, ac cursus lectus. Suspendisse eu nibh at metus pharetra mattis. Vivamus ullamcorper bibendum turpis, eu tempor nunc convallis eget. Aenean vel odio non est pulvinar convallis nec ut lacus. Sed rhoncus leo non massa laoreet, vitae elementum dui malesuada. Fusce eget molestie felis. Vivamus venenatis tempus magna, gravida aliquet orci tristique a. Fusce a lectus et orci sagittis sodales nec eget tortor. Proin semper felis justo, in porta risus rutrum ut. Nulla dictum luctus ornare.
+```
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet condimentum sem, ac cursus lectus. Suspendisse eu nibh at metus pharetra mattis. Vivamus ullamcorper bibendum turpis, eu tempor nunc convallis eget. Aenean vel odio non est pulvinar convallis nec ut lacus. Sed rhoncus leo non massa laoreet, vitae elementum dui malesuada. Fusce eget molestie felis. Vivamus venenatis tempus magna, gravida aliquet orci tristique a. Fusce a lectus et orci sagittis sodales nec eget tortor. Proin semper felis justo, in porta risus rutrum ut. Nulla dictum luctus ornare.
+> Sed eget leo eget nisi tempus ullamcorper. Vivamus aliquet libero eu lectus euismod sodales. Morbi ut consectetur elit, nec rhoncus nulla. Nunc quam lacus, vulputate sit amet pretium ac, tristique et odio. Sed at efficitur arcu, sit amet suscipit nisi. Ut fringilla laoreet elementum. Morbi nec lacinia magna, sit amet vulputate dolor.
+
+>> 臺北市
+>> 高雄市
+
+1. test1
+2. test2
+
+- test1
+- test2
 
 ---
-1. First ordered list item
-2. Another item
-   * Unordered sub-list
-3. Actual number don't matter, just that it's a number
-   1. Ordered sub-list
-   2. 2nd
-4. And another item.
-   * note 1
-   * note 2
-   * note 3
----
-- [ ] todo list
-- [ ] 2nd things
----
-python code
-```python
-s = "Python syntax highlighting"
-print(s)
-```
----
-javascript code
+
 ```js
-var s = "Javascript syntax highlighting";
-alert(s);
+console.log([]==[])
 ```
-Colons can be used to align columns
 
-| Tables | Are | Cool |
-| :----- | :---: | ---: |
-| col 3 is | right-aligned | $1600 |
-| col 2 is | centered | $12 |
-| zebra stripes | are neat | $1 |
+| tables | are | fun |
+| :--- | ---: | :---:|
+| 1 | 2 | 3 |
 
-There must be at least 3 dashes separating each heaer cell.
-The outer pipes(|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown
-**Markdown** | **Less** | **Pretty**
-:-----------|:---------|:---------:
-*Still*     | `renders`| **nicely**
-1           | 2        | 3
+[youtube首頁](www.youtube.com)
 
 ![NKUST](./778447277.jpg "NKUST")
 
