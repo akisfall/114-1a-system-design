@@ -39,6 +39,6 @@ console.log([]==[])
 
 [youtube首頁](www.youtube.com)
 
-![NKUST](./778447277.jpg "NKUST")
+![NKUST](./pictures/NKUST.jpg "NKUST")
 
 📳📳📳
