@@ -102,7 +102,6 @@ flowchart LR
 
 
 ```mermaid
-MK
 flowchart LR
   %% 外部實體
   U[使用者群體<br/>員工/客服/管理層/外部客戶]
