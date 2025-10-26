@@ -8,7 +8,7 @@ graph TB
     end
     
     subgraph System["大展航圖 AI Gateway"]
-        Core["AI Gateway 核心系統"]
+        Core(("大展航圖<br/>AI Gateway<br/>核心系統"))
     end
     
     subgraph ExternalSystems["外部系統"]
@@ -56,12 +56,12 @@ graph TB
     end
     
     subgraph AIGateway["大展航圖 AI Gateway 系統"]
-        P1["1.0<br/>安全與治理層<br/>(LLM護欄/NER脫敏/權限控管)"]
-        P2["2.0<br/>語意路由層<br/>(Semantic Router)"]
-        P3["3.0<br/>智慧檢索層<br/>(GraphRAG/向量檢索)"]
-        P4["4.0<br/>對話生成層<br/>(LLM/AI Agent)"]
-        P5["5.0<br/>快取管理層<br/>(Semantic Cache)"]
-        P6["6.0<br/>監控與治理層<br/>(ELK/成本追蹤)"]
+        P1(("1.0<br/>安全與治理層<br/>(LLM護欄/NER脫敏/權限控管)"))
+        P2(("2.0<br/>語意路由層<br/>(Semantic Router)"))
+        P3(("3.0<br/>智慧檢索層<br/>(GraphRAG/向量檢索)"))
+        P4(("4.0<br/>對話生成層<br/>(LLM/AI Agent)"))
+        P5(("5.0<br/>快取管理層<br/>(Semantic Cache)"))
+        P6(("6.0<br/>監控與治理層<br/>(ELK/成本追蹤)"))
     end
     
     subgraph DataStores["資料儲存"]
